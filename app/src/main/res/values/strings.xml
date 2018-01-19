@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ConsultaCasos</string>
+    <string name="Ingreso_Casos">Ingreso de casos </string>
+    <string name="Consulta_Caso">Consulta de casos </string>
+    <string name="id_caso">Id del caso</string>
+    <string name="nombre_caso">Nombre del caso</string>
+    <string name="fecha_inicio_caso">Fecha de inicio</string>
+    <string name="fecha_fin_caso">Fecha de fin</string>
+    <string name="estado_caso">Estado</string>
+    <string name="ingresar_caso">Ingresar</string>
+    <string name="numero_caso">Numero de Caso</string>
+    <string name="consultar_caso">Consultar</string>
+    <string name="lastvalue">None</string>
+    <string name="preference_file_key">com.example.root.consultacasos.PREFERENCE_FILE_KEY</string>
+    <string name="value_cliente">cliente</string>
+    <string name="value_fecha_inicio">fechaInicio</string>
+    <string name="value_fecha_fin">fechaFin</string>
+    <string name="value_estado">estado</string>
+    <string name="boton_fecha">ConsultarFecha</string>
+    <string name="country_prompt">Escoja el estado del caso</string>
+    <string-array name="country_arrays">
+        <item> En curso</item>
+        <item>Pendiente de dictamen</item>
+        <item>En apelación</item>
+        <item>Cerrado</item>
+    </string-array>
+</resources>
